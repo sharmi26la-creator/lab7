@@ -17,3 +17,11 @@ td, th {
 table {
   border-collapse: collapse;
 }
+.planet-table {
+margin: 24px auto;
+width: 90%;
+max-width: 900px;
+background: rgba(255,255,255,0.04);
+border-radius: 8px;
+padding: 8px;
+}
