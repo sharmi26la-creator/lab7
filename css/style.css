@@ -1,3 +1,15 @@
 td, th {
 	border: 1px solid;
   }
+
+#planets img {
+	width: 140px;
+	height: 140px;
+
+	object-fit: cover;
+	display: block;
+	margin: 0 auto;
+}
+table {
+  border-collapse: collapse;
+}
